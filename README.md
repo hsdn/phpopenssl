@@ -1,6 +1,6 @@
 # OpenSSL PHP Toolkit Library
 
-PHP library to work with the functions of OpenSSL. Unlike the the standard functionality available in the PHP openssl module (http://php.net/manual/en/ref.openssl.php), this library supports the standard OpenSSL database of certificates.
+PHP library to work with the functions of OpenSSL. Unlike the the standard functionality available in the PHP openssl module (http://php.net/manual/en/ref.openssl.php), this library supports the standard OpenSSL database of certificates. Perfect for organizing a full OpenSSL PKI functionality in PHP. See tutorial http://pki-tutorial.readthedocs.org/en/latest/simple/index.html about the PKI functions in OpenSSL.
 
 ### Features:
 - Generate RSA private keys in DER, NET or PEM formats
