@@ -26,7 +26,7 @@ PHP library to work with the functions of OpenSSL. Unlike the standard functiona
 
 ``` php
 <?php
-require_once 'src/OpenSSL.php';
+require_once 'src/Openssl.php';
 
 $openssl = new OpenSSL;
 
